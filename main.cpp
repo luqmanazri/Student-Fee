@@ -1,11 +1,3 @@
-/*
-	* This program is developed to manage the system of university fee for four courses
-	* Program: University Billing System
-	* Developer:	FATIN SHAHIRAH BINTI SHARIFUDDIN 
-					LUQMAN AZRI BIN AZMAN 
-					NURULAIN BINTI HAMZAH 
-*/
-
 
 #include <iostream>
 #include <fstream>
